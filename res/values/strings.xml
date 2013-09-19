@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab1</string><string name="activity1_title">Activity1</string>
+    
+    <string name="activity2_title">Activity2</string>
+    <string name="activity3_title">Activity3</string>
+    <string name="activity1_button1">Start Activity 2</string>
+    <string name="activity2_button1">Finish Activity 2</string>
+    <string name="activity2_button2">Start Activity 3</string>
+    <string name="on_create">onCreate()</string>
+    <string name="on_start">onStart()</string>
+    <string name="on_restart">onRestart()</string>
+    <string name="on_pause">onPause()</string>
+    <string name="on_resume">onResume()</string>
+    <string name="on_stop">onStop()</string>
+    <string name="on_destory">onDestroy()</string>
+    <string name="on_save">onSaveInstanceState()</string>
+    <string name="on_restore">onRestoreInstanceState()</string>
+    
+
+</resources>
